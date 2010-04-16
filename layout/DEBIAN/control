@@ -1,9 +1,8 @@
 Package: net.howett.lstools
 Name: lstools
-Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: 
+Description: launchservices commandline tools
 Maintainer: Dustin Howett <dustin@howett.net>
 Author: Dustin Howett <dustin@howett.net>
-Section: Tweaks
+Section: System
